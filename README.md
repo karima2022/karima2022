@@ -10,7 +10,7 @@ I'm **Karima Sebbah**, a passionate **Full Stack Developer** and aspiring **Soft
 
 ## 🛠️ Technologies & Tools  
 - **Languages**: Python, PHP, Java, JavaScript, Vue.js, HTML, CSS  
-- **Tools**: Selenium, Postman, Git, JIRA  
+- **Tools**: Postman, Git, JIRA  
 - **Quality & Testing**: Automated testing, compliance monitoring (ISO 27001, ISO 9001)  
 - **Methodologies**: Agile (Scrum), documentation, test case design  
 
@@ -18,7 +18,7 @@ I'm **Karima Sebbah**, a passionate **Full Stack Developer** and aspiring **Soft
   
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://www.linkedin.com/in/karima-sebbah-a89a1a252/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karima-sebbah-a89a1a252/)  
 
 
 
