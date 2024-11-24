@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**karima2022/karima2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Karima Sebbah**, a passionate **Full Stack Developer** and aspiring **Software Developer and Tester**.  
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+- 🎓 Currently studying Full Stack Development at IT Akademy.  
+- 💼 Apprentice at New Generation Sr, working with **Python** and **Vue.js**.  
+- 📋 Quality Representative for **ISO 27001** and **ISO 9001** certifications.  
+- ✍️ Experienced in creating **technical documentation** for internal and external projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools  
+- **Languages**: Python, PHP, Java, JavaScript, Vue.js, HTML, CSS  
+- **Tools**: Selenium, Postman, Git, JIRA  
+- **Quality & Testing**: Automated testing, compliance monitoring (ISO 27001, ISO 9001)  
+- **Methodologies**: Agile (Scrum), documentation, test case design  
+
+## 🚀 Projects  
+  
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://www.linkedin.com/in/karima-sebbah-a89a1a252/)  
+
+
+
